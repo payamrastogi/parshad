@@ -4,3 +4,8 @@ https://github.com/marketplace/lucidchart-connector
 https://github.com/marketplace/leanboard
 https://github.com/marketplace/zube
 https://github.com/marketplace/teamhub
+
+Documentation can be added at:
+https://paper.dropbox.com/
+
+Need to check for wireframing/ mock-up creators.
