@@ -9,5 +9,5 @@
 
 - [Documentation](https://paper.dropbox.com/)
 
-### Todo
+### Todo:
 - Need to check for wireframing/ mock-up creators.
